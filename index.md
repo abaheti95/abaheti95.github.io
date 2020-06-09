@@ -11,9 +11,10 @@ Before joining my PhD program, I was a Research Fellow at Microsoft Research (MS
 
 ## Publications
 #### [Link to Google Scholar](https://scholar.google.com/citations?user=36wq_hwAAAAJ&hl=en)
+#### [Link to Semantic Scholar](https://www.semanticscholar.org/author/Ashutosh-Baheti/3458166)
 * Fluent Response Generation for Conversational Question Answering  
  _2020 Annual Conference of the Association for Computational Linguistics_  
- [PDF (not uploaded)](){: .btn .btn-danger} [Code](https://github.com/abaheti95/QADialogSystem){: .btn .btn-success}
+ [PDF](https://arxiv.org/pdf/2005.10464.pdf){: .btn .btn-primary} [Code](https://github.com/abaheti95/QADialogSystem){: .btn .btn-success}
 
 * Generating More Interesting Responses in Neural Conversation Models with Distributional Constraints  
  _Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing_  
