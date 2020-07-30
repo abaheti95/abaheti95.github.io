@@ -1,18 +1,18 @@
 ---
 layout: page
 title: My Homepage
-subtitle: Learn, Build, Enjoy and Sleep
+subtitle: A Biological🧬 Intelligence trying to make 🖥️ Intelligent
 ---
-## About Me
+## About Me 🧑🏽
 
-Hi! My name is Ashutosh Baheti. I am a Computer Science PhD student working with [Prof. Alan Ritter](http://aritter.github.io/) at The Ohio State University. I believe language is one of the most powerful tools invented by mankind and giving computers the power for language will revolutionize the way we live. My research interests are Natural Language Understanding (NLU), Generation (NLG) and general Artificial Intelligence (AI). My current research focuses on Automatic Dialog Systems and problem related to it.
+Hi! My name is Ashutosh Baheti. I am a Computer Science PhD student working with [Prof. Alan Ritter](http://aritter.github.io/). I will be a graduate student at Georgia Tech starting from Fall 2020. Previously, I was graduate student at The Ohio State University. I believe language is one of the most powerful tools invented by mankind. Giving computers the power of language will automate many menial jobs and accelerate innovation. My research interests are Natural Language Understanding (NLU), Generation (NLG) and Artificial Intelligence (AI). My current research focuses on Automatic Dialog Systems and problem related to it.
 
-Before joining my PhD program, I was a Research Fellow at Microsoft Research (MSR), India for one year. I worked with [Dr. Monojit Choudhury](https://www.microsoft.com/en-us/research/people/monojitc/) on word-level language identification of code-switched text. Before that, I completed my Bachelor's Degree in Computer Science from Indian Institute of Technology, Kharagpur.
+Before joining my PhD program, I was a Research Fellow at Microsoft Research (MSR), India for one year. I worked with [Dr. Monojit Choudhury](https://www.microsoft.com/en-us/research/people/monojitc/) on word-level language identification of code-switched text. Before that, I completed my Bachelor's Degree in Computer Science and Engineering from Indian Institute of Technology, Kharagpur.
 
-## Publications
-#### [Link to Google Scholar](https://scholar.google.com/citations?user=36wq_hwAAAAJ&hl=en){:target="_blank"}
-#### [Link to Semantic Scholar](https://www.semanticscholar.org/author/Ashutosh-Baheti/3458166){:target="_blank"}
-* **Extracting COVID-19 Events from Twitter**   
+## Publications 📃
+#### [Link to Google Scholar 🎓](https://scholar.google.com/citations?user=36wq_hwAAAAJ&hl=en){:target="_blank"}
+#### [Link to Semantic Scholar 🎓](https://www.semanticscholar.org/author/Ashutosh-Baheti/3458166){:target="_blank"}
+* 🦠 **Extracting COVID-19 Events from Twitter**   
  Authors: [Shi Zong](https://viczong.github.io/){:target="_blank"}, **Ashutosh Baheti**, [Wei Xu](https://cocoxu.github.io/){:target="_blank"}, [Alan Ritter](http://aritter.github.io/){:target="_blank"}   
  _Preprint. June, 2020_   
  [PDF](https://arxiv.org/pdf/2006.02567.pdf){:target="_blank" .btn .btn-primary} [Code](https://github.com/viczong/extract_COVID19_events_from_Twitter){:target="_blank" .btn .btn-success}
@@ -37,23 +37,30 @@ Before joining my PhD program, I was a Research Fellow at Microsoft Research (MS
  _The 22nd IEEE Symposium on Computers and Communications, 2017_  
  [PDF](https://arxiv.org/pdf/1611.07397.pdf){:target="_blank" .btn .btn-primary} [Code](https://github.com/abaheti95/Barrier-Coverage){:target="_blank" .btn .btn-success}
 
-### Other Interests/Ideas/Activities
+## Other Interests/Ideas💡/Activities🚣🏽
 Somewhat Explored:  
-* Cooking
-* Traveling
-* Yoga
-* Hiking
-* Skating
-* Binge-watching
-* Gaming
-* Mobile game development
-* Having long conversations about life, universe, science, politics and philosophy
+* Cooking 🍳
+* Traveling ✈️
+* Yoga 🧘🏽
+* Hiking 🥾
+* Skating 🛼
+* Gaming 🎮
+* Mobile game development 👨🏽‍💻
+* Having long conversations about life 🧬, universe 🌌, science 🧪, politics 🗳️ and philosophy
 
 Want to Explore (in Future):  
-* VR app development
-* Blogging
+* VR app development 👨🏽‍💻
+* Video Blogging ⏯️
 
-## My Cats
+## 🆓 Tools🛠️ and Extensions🧰 for Productivity
+Recommended websites and browser extensions to boost your productivity:
+* [Notion.so](https://www.notion.so/): A database-style note-taking website/app. Helps you organize your thoughts/progress into digital notebook.
+* [Grammarly](https://app.grammarly.com/): Free grammar checking app/website/extension
+* [Kami](https://chrome.google.com/webstore/detail/kami-extension-pdf-and-do/ecnphlgnajanjnkcmbpancdjoidceilk?hl=en): PDF highlighting browser extension. Saves all highlights and annotations on cloud.
+* [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en-US): Darkify any website using this browser extension to reduce strain on your poor eyes. Remember to often blink and hydrate💧!
+* [Mailtrack](https://chrome.google.com/webstore/detail/email-tracker-for-gmail-m/ndnaehgpjlnokgebbaldlmgkapkpjkkb): Free Gmail extension to track sent emails.
+
+## My Cats 🐈
 #### Appa (CHONKY Boi):
 ![Appa](/img/appa.jpg "Appa")
 #### Momo (LEAN Boi):
