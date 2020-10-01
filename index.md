@@ -9,6 +9,9 @@ Hi! My name is Ashutosh Baheti. I am a Computer Science PhD student working with
 
 Before joining my PhD program, I was a Research Fellow at Microsoft Research (MSR), India for one year. I worked with [Dr. Monojit Choudhury](https://www.microsoft.com/en-us/research/people/monojitc/) on word-level language identification of code-switched text. Before that, I completed my Bachelor's Degree in Computer Science and Engineering from Indian Institute of Technology, Kharagpur.
 
+## Contact 📧
+In this time of global pandemic the best way to contact me is through email. My email ID is [abaheti95@gatech.edu](mailto:abaheti95@gatech.edu){:target="_blank"}
+
 ## Publications 📃
 #### [Link to Google Scholar 🎓](https://scholar.google.com/citations?user=36wq_hwAAAAJ&hl=en){:target="_blank"}
 #### [Link to Semantic Scholar 🎓](https://www.semanticscholar.org/author/Ashutosh-Baheti/3458166){:target="_blank"}
@@ -20,7 +23,7 @@ Before joining my PhD program, I was a Research Fellow at Microsoft Research (MS
 * **Fluent Response Generation for Conversational Question Answering**  
  Authors: **Ashutosh Baheti**, [Alan Ritter](http://aritter.github.io/){:target="_blank"}, [Kevin Small](http://www.kevinsmall.org/){:target="_blank"}   
  _2020 Annual Conference of the Association for Computational Linguistics_  
- [PDF](https://arxiv.org/pdf/2005.10464.pdf){:target="_blank" .btn .btn-primary} [Code](https://github.com/abaheti95/QADialogSystem){:target="_blank" .btn .btn-success} [Slides](https://drive.google.com/file/d/1rMyG72NGBQ9UT86LX-_eLnGj9fB7XixY/view?usp=sharing){:target="_blank" .btn .btn-warning}
+ [PDF](https://arxiv.org/pdf/2005.10464.pdf){:target="_blank" .btn .btn-primary} [Code](https://github.com/abaheti95/QADialogSystem){:target="_blank" .btn .btn-success} [Slides](https://drive.google.com/file/d/1rMyG72NGBQ9UT86LX-_eLnGj9fB7XixY/view?usp=sharing){:target="_blank" .btn .btn-warning} [Talk](https://slideslive.com/38928997/fluent-response-generation-for-conversational-question-answering){:target="_blank" .btn .btn-danger}
 
 * **Generating More Interesting Responses in Neural Conversation Models with Distributional Constraints**  
  Authors: **Ashutosh Baheti**, [Alan Ritter](http://aritter.github.io/){:target="_blank"}, [Jewei Li](https://nlp.stanford.edu/~bdlijiwei/){:target="_blank"}, [Bill Dolan](https://www.microsoft.com/en-us/research/people/billdol/){:target="_blank"}   
