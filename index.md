@@ -10,7 +10,7 @@ Hi! My name is Ashutosh Baheti. I am a Computer Science PhD student working with
 Before joining my PhD program, I was a Research Fellow at Microsoft Research (MSR), India for one year. I worked with [Dr. Monojit Choudhury](https://www.microsoft.com/en-us/research/people/monojitc/) on word-level language identification of code-switched text. Before that, I completed my Bachelor's Degree in Computer Science and Engineering from Indian Institute of Technology, Kharagpur.
 
 ## Contact 📧
-In this time of global pandemic the best way to contact me is through email. My email ID is [abaheti95@gatech.edu](mailto:abaheti95@gatech.edu){:target="_blank"}
+In this time of global pandemic the best way to contact me is through email. My email ID is [abaheti95@gatech.edu](mailto:abaheti95@gatech.edu){:target="_blank"}. You can find links to my profiles in other social media and github at the bottom of the page.
 
 ## Publications 📃
 #### [Link to Google Scholar 🎓](https://scholar.google.com/citations?user=36wq_hwAAAAJ&hl=en){:target="_blank"}
