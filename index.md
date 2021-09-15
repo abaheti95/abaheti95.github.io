@@ -5,9 +5,9 @@ subtitle: A Biological🧬 Intelligence trying to make 🖥️ Intelligent
 ---
 ## About Me 🧑🏽
 
-Hi! My name is Ashutosh Baheti. I am a Computer Science PhD student working with [Prof. Alan Ritter](http://aritter.github.io/). I will be a graduate student at Georgia Tech starting from Fall 2020. Previously, I was graduate student at The Ohio State University. I believe language is one of the most powerful tools invented by mankind. Giving computers the power of language will automate many menial jobs and accelerate innovation. My research interests are Natural Language Understanding (NLU), Generation (NLG) and Artificial Intelligence (AI). My current research focuses on Automatic Dialog Systems and problem related to it.
+Hi!🙋🏽‍♂️ My name is Ashutosh Baheti. I am a Computer Science PhD student working with [Prof. Alan Ritter](http://aritter.github.io/). I am a graduate student at Georgia Tech since Fall 2020. Previously, received a master's in Computer Science from The Ohio State University. I believe language is one of the most powerful tools invented by mankind. Giving computers the power of language will automate many menial jobs and accelerate innovation. My research interests are Natural Language Understanding (NLU), Generation (NLG), and Artificial Intelligence (AI). My current research focuses on open-domain Dialog Systems aka chatbots and problems related to them.
 
-Before joining my PhD program, I was a Research Fellow at Microsoft Research (MSR), India for one year. I worked with [Dr. Monojit Choudhury](https://www.microsoft.com/en-us/research/people/monojitc/) on word-level language identification of code-switched text. Before that, I completed my Bachelor's Degree in Computer Science and Engineering from Indian Institute of Technology, Kharagpur.
+Before joining my PhD program, I was a Research Fellow at Microsoft Research (MSR), India for one year. I worked with [Dr. Monojit Choudhury](https://www.microsoft.com/en-us/research/people/monojitc/) on word-level language identification of code-switched text. Before that, I completed my Bachelor's Degree in Computer Science and Engineering from the Indian Institute of Technology, Kharagpur.
 
 ## Contact 📧
 In this time of global pandemic the best way to contact me is through email. My email ID is [abaheti95@gatech.edu](mailto:abaheti95@gatech.edu){:target="_blank"}. You can find links to my profiles in other social media and github at the bottom of the page.
@@ -15,6 +15,11 @@ In this time of global pandemic the best way to contact me is through email. My 
 ## Publications 📃
 #### [Link to Google Scholar 🎓](https://scholar.google.com/citations?user=36wq_hwAAAAJ&hl=en){:target="_blank"}
 #### [Link to Semantic Scholar 🎓](https://www.semanticscholar.org/author/Ashutosh-Baheti/3458166){:target="_blank"}
+* **Just Say No: Analyzing the Stance of Neural Dialogue Generation in Offensive Contexts**  
+ Authors: **Ashutosh Baheti**, [Maarten Sap](https://homes.cs.washington.edu/~msap/){:target="_blank"}, [Alan Ritter](http://aritter.github.io/){:target="_blank"}, [Mark Riedl](http://eilab.gatech.edu/){:target="_blank"}   
+ _Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing_  
+ [PDF](https://arxiv.org/pdf/2108.11830.pdf){:target="_blank" .btn .btn-primary} [Code](https://github.com/abaheti95/ToxiChat){:target="_blank" .btn .btn-success}
+
 * 🦠 **Extracting COVID-19 Events from Twitter**   
  Authors: [Shi Zong](https://viczong.github.io/){:target="_blank"}, **Ashutosh Baheti**, [Wei Xu](https://cocoxu.github.io/){:target="_blank"}, [Alan Ritter](http://aritter.github.io/){:target="_blank"}   
  _Preprint. June, 2020_   
@@ -44,7 +49,7 @@ In this time of global pandemic the best way to contact me is through email. My 
 Somewhat Explored:  
 * Cooking 🍳
 * Traveling ✈️
-* Yoga 🧘🏽
+* Yoga and meditation 🧘🏽
 * Hiking 🥾
 * Skating 🛼
 * Gaming 🎮
@@ -64,7 +69,8 @@ Recommended websites and browser extensions to boost your productivity:
 * [Mailtrack](https://chrome.google.com/webstore/detail/email-tracker-for-gmail-m/ndnaehgpjlnokgebbaldlmgkapkpjkkb): Free Gmail extension to track sent emails.
 
 ## My Cats 🐈
-#### Appa (CHONKY Boi):
+#### Appa (LEAN FLUFFY Boi) (previously a CHONKY Boi):
 ![Appa](/img/appa.jpg "Appa")
+
 #### Momo (LEAN Boi):
 ![Momo](/img/momo.jpg "Momo")
