@@ -18,7 +18,7 @@ In this time of global pandemic the best way to contact me is through email. My 
 * **Just Say No: Analyzing the Stance of Neural Dialogue Generation in Offensive Contexts**  
  Authors: **Ashutosh Baheti**, [Maarten Sap](https://homes.cs.washington.edu/~msap/){:target="_blank"}, [Alan Ritter](http://aritter.github.io/){:target="_blank"}, [Mark Riedl](http://eilab.gatech.edu/){:target="_blank"}   
  _Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing_  
- [PDF](https://arxiv.org/pdf/2108.11830.pdf){:target="_blank" .btn .btn-primary} [Code](https://github.com/abaheti95/ToxiChat){:target="_blank" .btn .btn-success}
+ [PDF](https://arxiv.org/pdf/2108.11830.pdf){:target="_blank" .btn .btn-primary} [Code](https://github.com/abaheti95/ToxiChat){:target="_blank" .btn .btn-success} [Slides](https://docs.google.com/presentation/d/1BXsK-pivtjTvFydQVcuSz4IptBeXpxL8/edit?usp=sharing&ouid=108428562364422619540&rtpof=true&sd=true){:target="_blank" .btn .btn-warning} [Poster](https://drive.google.com/file/d/1d5u0eeyBovB4ib_74Jinuh6jXjcDrpRy/view?usp=sharing){:target="_blank" .btn .btn-info} [Talk](https://drive.google.com/file/d/1-gKgoFM2F6QLknNrg-Pm3QH7aXI0nwbK/view?usp=sharing){:target="_blank" .btn .btn-danger}
 
 * 🦠 **Extracting COVID-19 Events from Twitter**   
  Authors: [Shi Zong](https://viczong.github.io/){:target="_blank"}, **Ashutosh Baheti**, [Wei Xu](https://cocoxu.github.io/){:target="_blank"}, [Alan Ritter](http://aritter.github.io/){:target="_blank"}   
