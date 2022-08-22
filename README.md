@@ -1,4 +1,4 @@
-Command to run locally: `bundle exec jekyll serve`
+Command to run locally: `bundle exec jekyll serve --force_polling`
 
 # Beautiful Jekyll
 

@@ -1,16 +1,25 @@
 ---
 layout: page
-title: My Homepage
-subtitle: A Biological🧬 Intelligence trying to make 🖥️ Intelligent
+title: My Home Page
+subtitle: I am a Biological🧬 Intelligence trying to make Computers🖥️ Intelligent
 ---
-## About Me 🧑🏽
 
-Hi!🙋🏽‍♂️ My name is Ashutosh Baheti. I am a Computer Science PhD student working with [Prof. Alan Ritter](http://aritter.github.io/). I am a graduate student at Georgia Tech since Fall 2020. Previously, received a master's in Computer Science from The Ohio State University. I believe language is one of the most powerful tools invented by mankind. Giving computers the power of language will automate many menial jobs and accelerate innovation. My research interests are Natural Language Understanding (NLU), Generation (NLG), and Artificial Intelligence (AI). My current research focuses on open-domain Dialog Systems aka chatbots and problems related to them.
+## Research Mission🧑🏽‍🔬: Productivity AI
+Most current AI recommenders are trained to improve investor revenues while letting their applications deliver sub-par user experience. Instead, AI should help you learn, grow, achieve and get things done. Its training objective should be optimizing your potential. Therefore, I want to develop a productivity AI assistant that manages and executes your tasks by conversing with you (like [J.A.R.V.I.S.](https://en.wikipedia.org/wiki/J.A.R.V.I.S.)). I believe communication is one of the most powerful tools invented by mankind. Giving computers the power of understanding human conversations will automate many repetitive jobs and accelerate innovation.
 
-Before joining my PhD program, I was a Research Fellow at Microsoft Research (MSR), India for one year. I worked with [Dr. Monojit Choudhury](https://www.microsoft.com/en-us/research/people/monojitc/) on word-level language identification of code-switched text. Before that, I completed my Bachelor's Degree in Computer Science and Engineering from the Indian Institute of Technology, Kharagpur.
+To pursue this dream, I study and work on open-domain dialog, natural language generation, and deep learning. Existing research in robotics [^1], embodied AI [^2] and large language models [^3] have demonstrated that fundamental blocks to build such a machine already exists!  
+
+
+[^1]: [https://twitter.com/andyzengtweets/status/1537492802526928896](https://twitter.com/andyzengtweets/status/1537492802526928896)
+[^2]: [https://embodiedqa.org/](https://embodiedqa.org/)
+[^3]: [https://arxiv.org/abs/2005.14165](https://arxiv.org/abs/2005.14165)
+
+
+## Experience
+I am a Computer Science PhD student at Georgia Tech working with [Prof. Alan Ritter](http://aritter.github.io/). Previously, received a master's in Computer Science from The Ohio State University. Before that, I was a Research Fellow at Microsoft Research (MSR), India for one year. I worked with [Dr. Monojit Choudhury](https://www.microsoft.com/en-us/research/people/monojitc/) on word-level language identification of code-switched text. I completed my Bachelor's Degree in Computer Science and Engineering from the Indian Institute of Technology, Kharagpur.
 
 ## Contact 📧
-In this time of global pandemic the best way to contact me is through email. My email ID is [abaheti95@gatech.edu](mailto:abaheti95@gatech.edu){:target="_blank"}. You can find links to my profiles in other social media and github at the bottom of the page.
+The best way to contact me is through email [abaheti95@gatech.edu](mailto:abaheti95@gatech.edu){:target="_blank"}. You can find links to my profiles in other social media and github at the bottom of the page.
 
 ## Publications 📃
 #### [Link to Google Scholar 🎓](https://scholar.google.com/citations?user=36wq_hwAAAAJ&hl=en){:target="_blank"}
@@ -63,7 +72,9 @@ Want to Explore (in Future):
 ## 🆓 Tools🛠️ and Extensions🧰 for Productivity
 Recommended websites and browser extensions to boost your productivity:
 * [Notion.so](https://www.notion.so/): A database-style note-taking website/app. Helps you organize your thoughts/progress into digital notebook.
-* [Grammarly](https://app.grammarly.com/): Free grammar checking app/website/extension
+* [Xmind](https://xmind.works/#/): A digital notebook to make mind maps and diagrams.
+* [Grammarly](https://app.grammarly.com/): Free grammar checking app/website/extension.
+* [Quillbot](https://quillbot.com/): Free paraphrasing tool.
 * [Kami](https://chrome.google.com/webstore/detail/kami-extension-pdf-and-do/ecnphlgnajanjnkcmbpancdjoidceilk?hl=en): PDF highlighting browser extension. Saves all highlights and annotations on cloud.
 * [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en-US): Darkify any website using this browser extension to reduce strain on your poor eyes. Remember to often blink and hydrate💧!
 * [Mailtrack](https://chrome.google.com/webstore/detail/email-tracker-for-gmail-m/ndnaehgpjlnokgebbaldlmgkapkpjkkb): Free Gmail extension to track sent emails.
