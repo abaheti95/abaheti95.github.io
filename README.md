@@ -1,3 +1,5 @@
+Ruby Installation: https://stackoverflow.com/a/37956249/4535284
+verstion 2.7.6
 Command to run locally: `bundle exec jekyll serve --force_polling`
 
 # Beautiful Jekyll
