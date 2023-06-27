@@ -25,13 +25,18 @@ The best way to contact me is through email [abaheti95@gatech.edu](mailto:abahet
 #### [Link to Google Scholar 🎓](https://scholar.google.com/citations?user=36wq_hwAAAAJ&hl=en){:target="_blank"}
 #### [Link to Semantic Scholar 🎓](https://www.semanticscholar.org/author/Ashutosh-Baheti/3458166){:target="_blank"}
 
+* **(LoL-RL) Improving Language Models with Advantage-based Offline Policy Gradients**  
+ Authors: **Ashutosh Baheti**, Ximing Lu, [Faeze Brahman](https://users.soe.ucsc.edu/~hannahbrahman/){:target="_blank"}, [Ronan Le Bras](https://rlebras.github.io/){:target="_blank"}, [Maarten Sap](https://maartensap.com/){:target="_blank"}, [Mark Riedl](http://eilab.gatech.edu/){:target="_blank"}   
+ _Preprint 2023_  
+ [PDF](https://arxiv.org/pdf/2305.14718.pdf){:target="_blank" .btn .btn-primary} [Code](https://github.com/abaheti95/LoL-RL){:target="_blank" .btn .btn-success} 
+
 * **Stanceosaurus: Classifying Stance Towards Multicultural Misinformation**  
  Authors: Jonathan Zheng, **Ashutosh Baheti**, [Tarek Naous](https://www.sites.google.com/view/tareknaous){:target="_blank"}, [Wei Xu](https://cocoxu.github.io/){:target="_blank"}, [Alan Ritter](http://aritter.github.io/){:target="_blank"}   
  _EMNLP 2022_  
  [PDF](https://arxiv.org/pdf/2210.15954.pdf){:target="_blank" .btn .btn-primary} [Code](https://github.com/JonathanQZheng/Stanceosaurus/){:target="_blank" .btn .btn-success} 
 
 * **Just Say No: Analyzing the Stance of Neural Dialogue Generation in Offensive Contexts**  
- Authors: **Ashutosh Baheti**, [Maarten Sap](https://homes.cs.washington.edu/~msap/){:target="_blank"}, [Alan Ritter](http://aritter.github.io/){:target="_blank"}, [Mark Riedl](http://eilab.gatech.edu/){:target="_blank"}   
+ Authors: **Ashutosh Baheti**, [Maarten Sap](https://maartensap.com/){:target="_blank"}, [Alan Ritter](http://aritter.github.io/){:target="_blank"}, [Mark Riedl](http://eilab.gatech.edu/){:target="_blank"}   
  _EMNLP 2021_  
  [PDF](https://arxiv.org/pdf/2108.11830.pdf){:target="_blank" .btn .btn-primary} [Code](https://github.com/abaheti95/ToxiChat){:target="_blank" .btn .btn-success} [Slides](https://docs.google.com/presentation/d/1BXsK-pivtjTvFydQVcuSz4IptBeXpxL8/edit?usp=sharing&ouid=108428562364422619540&rtpof=true&sd=true){:target="_blank" .btn .btn-warning} [Poster](https://drive.google.com/file/d/1d5u0eeyBovB4ib_74Jinuh6jXjcDrpRy/view?usp=sharing){:target="_blank" .btn .btn-info} [Talk](https://drive.google.com/file/d/1-gKgoFM2F6QLknNrg-Pm3QH7aXI0nwbK/view?usp=sharing){:target="_blank" .btn .btn-danger}
 
