@@ -5,9 +5,9 @@ subtitle: I am a Biological🧬 Intelligence trying to make Computers🖥️ Int
 ---
 
 ## Research Mission🧑🏽‍🔬: Productivity AI
-Most current AI recommenders are trained to improve investor revenues while letting their applications deliver sub-par user experience. Instead, AI should help you learn, grow, achieve and get things done. Its training objective should be optimizing your potential. Therefore, I want to develop a productivity AI assistant that manages and executes your tasks by conversing with you (like [J.A.R.V.I.S.](https://en.wikipedia.org/wiki/J.A.R.V.I.S.)). I believe communication is one of the most powerful tools invented by mankind. Giving computers the power of understanding human conversations will automate many repetitive jobs and accelerate innovation.
+Most current AI agents are trained to improve revenues which don't usually align with what the users truly value. This makes the decisions made by AI baised and suboptimal. Instead, AI should help you learn, grow, achieve and get things done. Its training objective should be optimizing tasks and rewards that you prefer. I dream of creating a productivity AI assistant that manages and executes your tasks by conversing with you (like [J.A.R.V.I.S.](https://en.wikipedia.org/wiki/J.A.R.V.I.S.)). I believe communication is one of the most powerful tools invented by mankind. Giving computers the power of understanding human conversations will automate many repetitive jobs and accelerate innovation.
 
-To pursue this dream, I study and work on open-domain dialog, natural language generation, and deep learning. Existing research in robotics [^1], embodied AI [^2] and large language models [^3] have demonstrated that fundamental blocks to build such a machine already exists!
+To pursue this dream, I study and work on open-domain dialog, large langauge models and reinforcment learning. Existing research in robotics [^1], embodied AI [^2] and large language models [^3] have demonstrated that fundamental blocks to build such a machine already exists!
 
 
 [^1]: [https://twitter.com/andyzengtweets/status/1537492802526928896](https://twitter.com/andyzengtweets/status/1537492802526928896)
@@ -16,7 +16,7 @@ To pursue this dream, I study and work on open-domain dialog, natural language g
 
 
 ## Experience
-I am a Computer Science Ph.D. student at Georgia Tech, co-advised by [Prof. Mark Rield](http://eilab.gatech.edu/mark-riedl.html) and [Prof. Alan Ritter](http://aritter.github.io/). My primary research focus is on open-domain dialog aka neural chatbots. I have published multiple papers in top-tier NLP conferences on improving the chatbot's response quality, fluency, and safety (see the list of publications below). Previously, I received a master's thesis in Computer Science from The Ohio State University under the guidance of Prof. Alan Ritter. Before that, I was a Research Fellow at Microsoft Research (MSR), India, for one year. I worked with [Dr. Monojit Choudhury](https://www.microsoft.com/en-us/research/people/monojitc/) on word-level language identification of code-switched text. I completed my Bachelor's Degree in Computer Science and Engineering from the Indian Institute of Technology, Kharagpur.
+I am a Research Scientist at Databricks Mosaic Reserach. Previously, I graduated with Computer Science Ph.D. from Georgia Tech, co-advised by [Prof. Mark Rield](http://eilab.gatech.edu/mark-riedl.html) and [Prof. Alan Ritter](http://aritter.github.io/). My primary research focus was on undestanding the mechanisms to enable fine grained controllability of language models. I have published multiple papers in ML and NLP conferences on improving the language models response quality, fluency, and safety (see the list of publications below). Before that, I received a Master's thesis in Computer Science from The Ohio State University under the guidance of Prof. Alan Ritter. Before that, I was a Research Fellow at Microsoft Research (MSR), India, for one year. I worked with [Dr. Monojit Choudhury](https://www.microsoft.com/en-us/research/people/monojitc/) on word-level language identification of code-switched text. I completed my Bachelor's Degree in Computer Science and Engineering from the Indian Institute of Technology, Kharagpur.
 
 ## Contact 📧
 The best way to contact me is through email [abaheti95@gatech.edu](mailto:abaheti95@gatech.edu){:target="_blank"}. You can find links to my profiles in other social media and github at the bottom of the page.
@@ -25,10 +25,10 @@ The best way to contact me is through email [abaheti95@gatech.edu](mailto:abahet
 #### [Link to Google Scholar 🎓](https://scholar.google.com/citations?user=36wq_hwAAAAJ&hl=en){:target="_blank"}
 #### [Link to Semantic Scholar 🎓](https://www.semanticscholar.org/author/Ashutosh-Baheti/3458166){:target="_blank"}
 
-* **(LoL-RL) Improving Language Models with Advantage-based Offline Policy Gradients**  
+* 🍱 **(LoL-RL) Leftover Lunch: Advantage-based Offline Reinforcement Learning for Language Models**  
  Authors: **Ashutosh Baheti**, Ximing Lu, [Faeze Brahman](https://users.soe.ucsc.edu/~hannahbrahman/){:target="_blank"}, [Ronan Le Bras](https://rlebras.github.io/){:target="_blank"}, [Maarten Sap](https://maartensap.com/){:target="_blank"}, [Mark Riedl](http://eilab.gatech.edu/){:target="_blank"}   
- _Preprint 2023_  
- [PDF](https://arxiv.org/pdf/2305.14718.pdf){:target="_blank" .btn .btn-primary} [Code](https://github.com/abaheti95/LoL-RL){:target="_blank" .btn .btn-success} 
+ _ICLR 2024_  
+ [PDF](https://openreview.net/pdf?id=ZDGKPbF0VQ){:target="_blank" .btn .btn-primary} [Code](https://github.com/abaheti95/LoL-RL){:target="_blank" .btn .btn-success} [Poster](https://docs.google.com/presentation/d/1qblEzGLuKblJqbOW72Yv6QKTuTC1bK2O/edit?usp=sharing){:target="_blank" .btn .btn-info}
 
 * **Stanceosaurus: Classifying Stance Towards Multicultural Misinformation**  
  Authors: Jonathan Zheng, **Ashutosh Baheti**, [Tarek Naous](https://www.sites.google.com/view/tareknaous){:target="_blank"}, [Wei Xu](https://cocoxu.github.io/){:target="_blank"}, [Alan Ritter](http://aritter.github.io/){:target="_blank"}   
